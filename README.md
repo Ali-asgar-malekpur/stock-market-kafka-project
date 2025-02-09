@@ -1,26 +1,39 @@
-# stock-market-kafka-project
+# Stock Market Real-Time Data Engineering Project Using Kafka  
 
-Overview
-In this project, I have built a complete end-to-end data engineering pipeline for real-time stock market data using Apache Kafka.
+## 📌 Overview  
+In this project, I have built a complete **end-to-end data engineering pipeline** for real-time stock market data using **Apache Kafka**.  
 
-The project integrates various technologies such as Python, AWS (Amazon Web Services), Apache Kafka, Glue, Athena, and SQL to process and analyze stock market data in real time.
+The project integrates various **technologies** such as **Python, AWS (Amazon Web Services), Apache Kafka, Glue, Athena, and SQL** to process and analyze stock market data in real time.  
 
-Architecture
-The architecture involves setting up Kafka for real-time data streaming, AWS S3 for storage, Glue Crawlers & Catalog for data organization, and Athena for querying the data efficiently.
+---
 
-Technologies Used
-Programming Language: Python
-Cloud Platform: AWS (Amazon Web Services)
-Services Used:
-S3 (Simple Storage Service) – For storing raw and processed data
-Athena – For running SQL queries on S3 data
-Glue Crawler & Glue Catalog – For schema discovery and data cataloging
-EC2 (Elastic Compute Cloud) – For deploying Kafka brokers
-Apache Kafka – For real-time data streaming
-Dataset
-I have designed this project to work with any stock market dataset, as the focus is on building a scalable real-time data pipeline rather than analyzing a specific dataset.
+## 📂 Architecture  
+The architecture involves:  
+✅ **Kafka** for real-time data streaming  
+✅ **AWS S3** for data storage  
+✅ **Glue Crawlers & Glue Catalog** for schema discovery and data cataloging  
+✅ **Athena** for running SQL queries on S3 data  
 
-For reference, I used the following dataset:
-📌 Dataset Link
+---
 
-This project showcases my expertise in real-time data processing and demonstrates how to design scalable and efficient data pipelines using cutting-edge technologies. 🚀
+## 🛠️ Technologies Used  
+- **Programming Language:** Python  
+- **Cloud Platform:** AWS (Amazon Web Services)  
+- **AWS Services Used:**  
+  - **S3 (Simple Storage Service)** – Stores raw and processed data  
+  - **Athena** – Executes SQL queries on S3 data  
+  - **Glue Crawler & Glue Catalog** – Automates schema discovery  
+  - **EC2 (Elastic Compute Cloud)** – Hosts Kafka brokers  
+  - **Apache Kafka** – Enables real-time data streaming  
+
+---
+
+## 📊 Dataset  
+This project is designed to work with **any stock market dataset** since the main goal is to **build a scalable real-time data pipeline**.  
+
+For reference, I used the following dataset:  
+🔗 [**Dataset Link**](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv)  
+
+---
+
+This project demonstrates **real-time data processing** and showcases how to design **scalable** and **efficient** data pipelines using industry-standard technologies. 🚀  
