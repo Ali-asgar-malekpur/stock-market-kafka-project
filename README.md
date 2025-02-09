@@ -1,10 +1,10 @@
-![Untitled Diagram drawio](https://github.com/user-attachments/assets/525cfcd4-8e94-429e-b87d-887f02d92444)# Stock Market Real-Time Data Engineering Project Using Kafka and AWS Services
+# Stock Market Real-Time Data Engineering Project Using Kafka and AWS Services
 
 ## 📌 Overview  
 In this project, I have built a complete **end-to-end data engineering pipeline** for real-time stock market data using **Apache Kafka**.  
 
 The project integrates various **technologies** such as **Python, AWS (Amazon Web Services), Apache Kafka, Glue, Athena, and SQL** to process and analyze stock market data in real time.  
-![Uploading Untitled Diagram.drawio.png…]()
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/525cfcd4-8e94-429e-b87d-887f02d92444)
 
 ---
 
