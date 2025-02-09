@@ -13,6 +13,7 @@ The architecture involves:
 ✅ **AWS S3** for data storage  
 ✅ **Glue Crawlers & Glue Catalog** for schema discovery and data cataloging  
 ✅ **Athena** for running SQL queries on S3 data  
+✅ **Pandas** for building DataFrames
 
 ---
 
