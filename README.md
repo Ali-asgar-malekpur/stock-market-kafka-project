@@ -1,4 +1,4 @@
-# Stock Market Real-Time Data Engineering Project Using Kafka  
+# Stock Market Real-Time Data Engineering Project Using Kafka and AWS Services
 
 ## 📌 Overview  
 In this project, I have built a complete **end-to-end data engineering pipeline** for real-time stock market data using **Apache Kafka**.  
